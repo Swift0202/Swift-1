@@ -1,2 +1,1 @@
 key1_testkub
-key2_testkub
